@@ -1,0 +1,6 @@
+{
+  "name": "StudentSpend",
+  "description": "StudentSpend is a modern, student-friendly expense tracker and budget management app with insights, savings goals, and receipt scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
